@@ -1,0 +1,100 @@
+{
+  "tickets": [
+    {
+      "id": 2,
+      "title": "Page load timeout",
+      "description": "Homepage takes too long to load.",
+      "assignee": "Varun",
+      "status": "Progress",
+      "priority": 1
+    },
+    {
+      "id": 3,
+      "title": "Database connection error",
+      "description": "Cannot connect to the database server.",
+      "assignee": "Arun",
+      "status": "Completed",
+      "priority": 2
+    },
+    {
+      "id": 4,
+      "title": "UI alignment issue",
+      "description": "Header alignment is off on mobile devices.",
+      "assignee": "Ramji",
+      "status": "Pending",
+      "priority": 3
+    },
+    {
+      "id": 6,
+      "title": "API response error",
+      "description": "API returns error 500 for valid requests.",
+      "assignee": "Sanjay",
+      "status": "Completed",
+      "priority": 5
+    },
+    {
+      "id": 7,
+      "title": "Email notifications not sent",
+      "description": "Users do not receive email notifications.",
+      "assignee": "Abdul",
+      "status": "Pending",
+      "priority": 6
+    },
+    {
+      "id": 8,
+      "title": "Profile picture upload issue",
+      "description": "Users unable to upload profile pictures.",
+      "assignee": "Prateek",
+      "status": "Progress",
+      "priority": 7
+    },
+    {
+      "id": 9,
+      "title": "Search functionality broken",
+      "description": "Search does not return correct results.",
+      "assignee": "Manish",
+      "status": "Completed",
+      "priority": 8
+    },
+    {
+      "id": 11,
+      "title": "Broken links in footer",
+      "description": "Some footer links are broken.",
+      "assignee": "Arun",
+      "status": "Progress",
+      "priority": 10
+    },
+    {
+      "id": 12,
+      "title": "Slow search results",
+      "description": "Search results take too long to appear.",
+      "assignee": "Ramji",
+      "status": "Completed",
+      "priority": 11
+    },
+    {
+      "id": 13,
+      "title": "Incorrect user role",
+      "description": "Users are assigned incorrect roles.",
+      "assignee": "Shyam",
+      "status": "Pending",
+      "priority": 12
+    },
+    {
+      "id": 14,
+      "title": "Crash on settings page",
+      "description": "Settings page causes app to crash.",
+      "assignee": "Sanjay",
+      "status": "Progress",
+      "priority": 13
+    },
+    {
+      "id": 15,
+      "title": "Data sync issue",
+      "description": "Data does not sync across devices.",
+      "assignee": "Abdul",
+      "status": "Completed",
+      "priority": 14
+    }
+  ]
+}
